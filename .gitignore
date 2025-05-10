@@ -1,2 +1,3 @@
 /myenv
-.jpg
+*.jpg
+*.csv
